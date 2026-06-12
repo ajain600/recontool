@@ -1,0 +1,18 @@
+{
+  "name": "ReconTool — PayNearby",
+  "short_name": "ReconTool",
+  "description": "Payment Reconciliation Tool by PayNearby",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0d1b3a",
+  "theme_color": "#1a2f5e",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
